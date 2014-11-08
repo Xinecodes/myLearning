@@ -1,2 +1,1 @@
-/* Projects undertaken and/or completed */
-===============
+Practice problems and projects undertaken 
